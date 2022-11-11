@@ -1,0 +1,105 @@
+:root {
+  --red: #e23636;
+  --blue: #518cca;
+  --grey: #504a4a;
+  --darker-blue: #507eae;
+}
+
+@font-face {
+  font-family: "Marvel-regular";
+  src: url(./Marvel-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Stark";
+  src: url(./Stark.otf);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: "Stark";
+  font-weight: 200;
+  color: white;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+  background-color: var(--grey);
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 0.2em;
+  font-weight: 200;
+  font-size: 6.8rem;
+  font-family: "Marvel-regular";
+}
+
+h2 {
+  margin: 0;
+  padding: 1.2rem;
+  font-size: 4.8rem;
+}
+
+h3 {
+  font-weight: 200;
+  font-size: 3.6rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+h4 {
+  margin: 0;
+  font-weight: 200;
+  font-size: 2.6rem;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-family: "Marvel-regular";
+  text-align: center;
+  font-size: 2.4rem;
+  letter-spacing: 1px;
+}
+
+header {
+  background-color: var(--red);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  background-color: var(--blue);
+  margin: 2rem 0;
+}
+
+img {
+  width: 280px;
+  height: 400px;
+}
+
+.container {
+  padding: 1rem;
+  background-color: var(--darker-blue);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.container:nth-child(2n + 1) {
+  background-color: var(--blue);
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
