@@ -17,9 +17,11 @@ function Phase(props) {
       );
   });
 
+  const phaseNum = `PHASE ${props.phase}`;
+
   return (
-    <section>
-      <h2>PHASE {props.phase}</h2>
+    <section id={props.phase}>
+      <h2 className="sticky">{phaseNum}</h2>
       {movies}
     </section>
   );

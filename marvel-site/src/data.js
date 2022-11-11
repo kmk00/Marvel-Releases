@@ -429,7 +429,7 @@ export const moviesData = [
 
   {
     phase: "IV",
-    title: "WAHT IF...?",
+    title: "WHAT IF...?",
     date: "11 AUGUST 2021",
     img: "",
     heroes: [
