@@ -10,6 +10,7 @@ function Navigation() {
         <NavButton phase={"III"} />
         <NavButton phase={"IV"} />
         <NavButton phase={"V"} />
+        <NavButton phase={"VI"} />
       </div>
     </nav>
   );

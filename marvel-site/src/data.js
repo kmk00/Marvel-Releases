@@ -603,7 +603,7 @@ export const moviesData = [
     type: "SPECIAL",
     phase: "IV",
     title: "GUARDIANS OF THE GALAXY: THE HOLIDAY SPECIAL",
-    date: "8 JUNE 2022",
+    date: "24 NOVEMBER 2022",
     img: "../images/guardiansspecial.jpg",
     heroes: [
       "STAR-LORD",
@@ -619,7 +619,7 @@ export const moviesData = [
     type: "MOVIE",
     phase: "V",
     title: "ANT-MAN AND THE WASP: QUANTUMANIA",
-    date: "8 JUNE 2022",
+    date: "8 FEBRUARY 2022",
     img: "../images/antman3.jpg",
     heroes: [
       "ANT-MAN",
@@ -628,5 +628,191 @@ export const moviesData = [
       "KANG THE CONQUEROR",
       "HANK PYM",
     ],
+  },
+  {
+    type: "MOVIE",
+    phase: "V",
+    title: "GUARDIANS OF THE GALAXY VOL. 3",
+    date: "5 MAY 2023",
+    img: "../images/tba.jpg",
+    heroes: [
+      "STARLORD",
+      "GAMORA",
+      "GROOT",
+      "ROCKET",
+      "MANTIS",
+      "DRAX",
+      "ADAM WARLOCK",
+      "HIGH EVOLUTIONARY",
+    ],
+  },
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "SECRET INVASION",
+    date: "SPRING 2023",
+    img: "../images/tba.jpg",
+    heroes: ["NICK FURY", "TALOS", "WAR MACHINE"],
+  },
+  {
+    type: "MOVIE",
+    phase: "V",
+    title: "THE MARVELS",
+    date: "28 JULY 2023",
+    img: "../images/tba.jpg",
+    heroes: ["CAPITAN MARVEL", "MS. MARVEL", "MONICA RAMBEAU"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "ECHO",
+    date: "SUMMER 2023",
+    img: "../images/tba.jpg",
+    heroes: ["ECHO", "DAREDEVIL", "KINGPIN"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "LOKI SEASON 2",
+    date: "SUMMER 2023",
+    img: "../images/tba.jpg",
+    heroes: ["LOKI", "MORBIUS", "SYLVIE", "HE WHO REMAINS"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "IRONHEART",
+    date: "FALL 2023",
+    img: "../images/tba.jpg",
+    heroes: ["RIRI WILLIAMS"],
+  },
+
+  {
+    type: "FILM",
+    phase: "V",
+    title: "BLADE",
+    date: "6 SEPTEMBER 2024 ",
+    img: "../images/tba.jpg",
+    heroes: ["BLADE"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "AGATHA: COVEN OF CHAOS",
+    date: "WINTER 2023/24",
+    img: "../images/tba.jpg",
+    heroes: ["AGATHA"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "V",
+    title: "DAREDEVIL: BORN AGAIN",
+    date: "SPRING 2024",
+    img: "../images/tba.jpg",
+    heroes: ["DAREDEVIL", "KINGPIN", "PUNISHER"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "V",
+    title: "CAPTAIN AMERICA: NEW WORLD ORDER",
+    date: "3 MAY 2024",
+    img: "../images/tba.jpg",
+    heroes: ["FALCON"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "V",
+    title: "THUNDERBOLTS",
+    date: "26 JULY 2024",
+    img: "../images/tba.jpg",
+    heroes: ["WINTER SOLDIER", "RED GUARDIAN", "YELENA", "U.S AGENT"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "DEADPOOL",
+    date: "8 NOVEMBER 2024",
+    img: "../images/tba.jpg",
+    heroes: ["DEADPOOL", "WOLVERINE"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "FANTASTIC FOUR",
+    date: "14 FEBRUARY 2025",
+    img: "../images/tba.jpg",
+    heroes: ["TBA"],
+  },
+
+  {
+    type: "SERIES",
+    phase: "VI",
+    title: "ARMOR WARS",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["WAR MACHINE"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "SHANG CHI 2",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["SHANG CHI", "XIALING"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "SPIDER MAN 4",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["SPIDER MAN"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "DOCTOR STRANGE 3",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["DOCTOR STRANGE"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "HULK",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["HULK"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "AVENGERS: KANG DYNASTY",
+    date: "TBA",
+    img: "../images/tba.jpg",
+    heroes: ["KANG"],
+  },
+
+  {
+    type: "MOVIE",
+    phase: "VI",
+    title: "AVENGERS: SECRET WARS",
+    date: "1 MAY 2026",
+    img: "../images/tba.jpg",
+    heroes: ["TBA"],
   },
 ];

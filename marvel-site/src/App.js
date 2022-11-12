@@ -7,11 +7,12 @@ function App() {
   return (
     <div>
       <Header />
-      <Phase phase="I"></Phase>
-      <Phase phase="II"></Phase>
-      <Phase phase="III"></Phase>
-      <Phase phase="IV"></Phase>
-      <Phase phase="V"></Phase>
+      <Phase phase="I" />
+      <Phase phase="II" />
+      <Phase phase="III" />
+      <Phase phase="IV" />
+      <Phase phase="V" />
+      <Phase phase="VI" />
       <Navigation />
     </div>
   );
