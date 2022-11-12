@@ -105,6 +105,8 @@ section {
 img {
   width: 280px;
   height: 400px;
+  box-shadow: 0 0 4px 4px black;
+  border: 2px solid black;
 }
 
 .nav-container {

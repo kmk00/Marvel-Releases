@@ -1,5 +1,4 @@
 import React from "react";
-import ironman from "./ironman.jpg";
 
 function Movie(props) {
   let heroList = props.heroes.map(function (hero) {
@@ -10,7 +9,7 @@ function Movie(props) {
   return (
     <div className="container">
       <div className="left">
-        <img src={ironman} alt="" />
+        <img src={props.img} alt="" />
         <h3>{props.title}</h3>
         <h4>{props.date}</h4>
       </div>
