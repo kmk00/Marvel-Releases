@@ -416,7 +416,7 @@ export const moviesData = [
     title: "LOKI",
     date: "9 JUNE 2021",
     img: "../images/loki.jpg",
-    heroes: ["LOKI", "SYLVIE", "XIALING", "KANG THE CONQUEROR"],
+    heroes: ["LOKI", "SYLVIE", "KANG THE CONQUEROR"],
   },
 
   {
@@ -678,7 +678,7 @@ export const moviesData = [
     title: "LOKI SEASON 2",
     date: "SUMMER 2023",
     img: "../images/tba.jpg",
-    heroes: ["LOKI", "MORBIUS", "SYLVIE", "HE WHO REMAINS"],
+    heroes: ["LOKI", "SYLVIE", "HE WHO REMAINS"],
   },
 
   {
