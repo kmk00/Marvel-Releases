@@ -1,7 +1,7 @@
 import React from "react";
 
 import Movie from "./Movie";
-import { moviesData } from "../data";
+import moviesData from "../data";
 
 function Phase(props) {
   const movies = moviesData.map((movie) => {
@@ -15,6 +15,7 @@ function Phase(props) {
           heroes={movie.heroes}
         />
       );
+    else return undefined;
   });
 
   const phaseNum = `PHASE ${props.phase}`;
