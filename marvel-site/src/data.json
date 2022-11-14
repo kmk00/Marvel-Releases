@@ -3,21 +3,21 @@
     "phase": "I",
     "title": "IRON MAN",
     "date": "29 JANUARY 2008",
-    "img": "../images/ironman.jpg",
+    "img": "../images/ironman.webp",
     "heroes": ["IRON MAN", "IRON MONGER", "NICK FURY"]
   },
   {
     "phase": "I",
     "title": "THE INCREDIBLE HULK",
     "date": "13 JUNE 2008",
-    "img": "../images/theincrediblehulk.jpg",
+    "img": "../images/theincrediblehulk.webp",
     "heroes": ["HULK", "ABOMINATION", "GENERAL ROSS"]
   },
   {
     "phase": "I",
     "title": "IRON MAN 2",
     "date": "30 APRIL 2010",
-    "img": "../images/ironman2.jpg",
+    "img": "../images/ironman2.webp",
     "heroes": [
       "IRON MAN",
       "WAR MACHINE",
@@ -32,14 +32,14 @@
     "phase": "I",
     "title": "CAPITAN AMERICA: THE FIRST AVENGER",
     "date": "5 AUGUST 2011",
-    "img": "../images/capitanamerica1.jpg",
+    "img": "../images/capitanamerica1.webp",
     "heroes": ["CAPITAN AMERICA", "RED SKULL", "PEGGY CARTER", "BUCKY BARNES"]
   },
   {
     "phase": "I",
     "title": "THOR",
     "date": "29 APRIL 2011",
-    "img": "../images/thor.jpg",
+    "img": "../images/thor.webp",
     "heroes": [
       "LOKI",
       "THOR",
@@ -56,7 +56,7 @@
     "phase": "I",
     "title": "THE AVENGERS",
     "date": "11 MAY 2012",
-    "img": "../images/avengers.jpg",
+    "img": "../images/avengers.webp",
     "heroes": [
       "IRON MAN",
       "CAPITAN AMERICA",
@@ -73,14 +73,14 @@
     "phase": "II",
     "title": "IRON MAN 3",
     "date": "9 MAY 2013",
-    "img": "../images/ironman3.jpg",
+    "img": "../images/ironman3.webp",
     "heroes": ["IRON MAN", "WAR MACHINE", "MANDARYN", "BUCKY BARNES"]
   },
   {
     "phase": "II",
     "title": "THOR: THE DARK WORLD",
     "date": "8 OCTOBER 2013",
-    "img": "../images/thor2.jpg",
+    "img": "../images/thor2.webp",
     "heroes": [
       "THOR",
       "LOKI",
@@ -95,7 +95,7 @@
     "phase": "II",
     "title": "GUARDIANS OF THE GALAXY",
     "date": "1 AUGUST 2014",
-    "img": "../images/guardians.jpg",
+    "img": "../images/guardians.webp",
     "heroes": [
       "STAR-LORD",
       "GAMORA",
@@ -112,7 +112,7 @@
     "phase": "II",
     "title": "CAPITAN AMERICA: THE WINTER SOLDIER",
     "date": "26 MARCH 2014",
-    "img": "../images/capitanamerica2.jpg",
+    "img": "../images/capitanamerica2.webp",
     "heroes": [
       "CAPITAN AMERICA",
       "WINTER SOLDIER",
@@ -128,7 +128,7 @@
     "phase": "II",
     "title": "AVENGERS: AGE OF ULTRON",
     "date": "7 MAY 2015",
-    "img": "../images/avengers2.jpg",
+    "img": "../images/avengers2.webp",
     "heroes": [
       "IRON MAN",
       "THOR",
@@ -155,7 +155,7 @@
     "phase": "II",
     "title": "ANT-MAN",
     "date": "17 JULY 2015",
-    "img": "../images/antman.jpg",
+    "img": "../images/antman.webp",
     "heroes": [
       "ANT-MAN",
       "HANK PYM",
@@ -170,7 +170,7 @@
     "phase": "III",
     "title": "CAPITAN AMERICA: CIVIL WAR",
     "date": "6 MAY 2016",
-    "img": "../images/capitanamerica3.jpg",
+    "img": "../images/capitanamerica3.webp",
     "heroes": [
       "IRON MAN",
       "CAPITAN AMERICA",
@@ -193,7 +193,7 @@
     "phase": "III",
     "title": "DOCTOR STRANGE",
     "date": "26 OCTOBER 2016",
-    "img": "../images/strange1.jpg",
+    "img": "../images/strange1.webp",
     "heroes": [
       "DOCTOR STRANGE",
       "BARON MORDO",
@@ -210,7 +210,7 @@
     "phase": "III",
     "title": "GUARDIANS OF THE GALAXY: vol. 2",
     "date": "5 MAY 2017",
-    "img": "../images/guardians2.jpg",
+    "img": "../images/guardians2.webp",
     "heroes": [
       "STAR-LORD",
       "GAMORA",
@@ -229,14 +229,14 @@
     "phase": "III",
     "title": "SPIDER-MAN: HOMECOMING",
     "date": "14 JULY 2017",
-    "img": "../images/spiderman1.jpg",
+    "img": "../images/spiderman1.webp",
     "heroes": ["SPIDER-MAN", "VULTURE", "IRON MAN"]
   },
   {
     "phase": "III",
     "title": "THOR: RAGNAROK",
     "date": "25 OCTOBER 2017",
-    "img": "../images/thor3.jpg",
+    "img": "../images/thor3.webp",
     "heroes": [
       "THOR",
       "LOKI",
@@ -255,7 +255,7 @@
     "phase": "III",
     "title": "BLACK PANTHER",
     "date": "5 MAY 2017",
-    "img": "../images/blackpanther1.jpg",
+    "img": "../images/blackpanther1.webp",
     "heroes": [
       "BLACK PANTHER",
       "KLAW",
@@ -271,7 +271,7 @@
     "phase": "III",
     "title": "AVENGERS: INFINITY WAR",
     "date": "26 APRIL 2018",
-    "img": "../images/avengers3.jpg",
+    "img": "../images/avengers3.webp",
     "heroes": [
       "IRON MAN",
       "THOR",
@@ -308,14 +308,14 @@
     "phase": "III",
     "title": "ANT-MAN AND THE WASP",
     "date": "3 AUGUST 2019",
-    "img": "../images/antman2.jpg",
+    "img": "../images/antman2.webp",
     "heroes": ["ANT-MAN", "WASP", "HANK PYM", "GHOST", "CASSANDRA LANG"]
   },
   {
     "phase": "III",
     "title": "CAPITAN MARVEL",
     "date": "8 MARCH 2019",
-    "img": "../images/capitanmarvel.jpg",
+    "img": "../images/capitanmarvel.webp",
     "heroes": [
       "NICK FURY",
       "CAPITAN MARVEL",
@@ -329,7 +329,7 @@
     "phase": "III",
     "title": "AVENGERS: ENDGAME",
     "date": "25 APRIL 2019",
-    "img": "../images/avengers4.jpg",
+    "img": "../images/avengers4.webp",
     "heroes": [
       "IRON MAN",
       "CAPITAN MARVEL",
@@ -375,7 +375,7 @@
     "phase": "III",
     "title": "SPIDER-MAN: FAR FROM HOME",
     "date": "5 JULY 2019",
-    "img": "../images/spiderman2.jpg",
+    "img": "../images/spiderman2.webp",
     "heroes": ["SPIDER-MAN", "MYSTERIO", "NICK FURY", "MARIA HILL", "TALOS"]
   },
 
@@ -383,7 +383,7 @@
     "phase": "IV",
     "title": "WANDAVISION",
     "date": "15 JANUARY 2021",
-    "img": "../images/wandavision.jpg",
+    "img": "../images/wandavision.webp",
     "heroes": [
       "SCARLET WITCH",
       "VISION",
@@ -400,7 +400,7 @@
     "phase": "IV",
     "title": "FALCON AND THE WINTER SOLDIER",
     "date": "19 MARCH 2021",
-    "img": "../images/falcon.jpg",
+    "img": "../images/falcon.webp",
     "heroes": [
       "WINTER SOLDIER",
       "FALCON",
@@ -415,7 +415,7 @@
     "phase": "IV",
     "title": "LOKI",
     "date": "9 JUNE 2021",
-    "img": "../images/loki.jpg",
+    "img": "../images/loki.webp",
     "heroes": ["LOKI", "SYLVIE", "KANG THE CONQUEROR"]
   },
 
@@ -423,7 +423,7 @@
     "phase": "IV",
     "title": "BLACK WIDOW",
     "date": "9 JULY 2021",
-    "img": "../images/blackwidow.jpg",
+    "img": "../images/blackwidow.webp",
     "heroes": ["BLACK WIDOW", "TASKMASTER", "YELENA", "RED GUARDIAN"]
   },
 
@@ -431,7 +431,7 @@
     "phase": "IV",
     "title": "WHAT IF...?",
     "date": "11 AUGUST 2021",
-    "img": "../images/whatif.jpg",
+    "img": "../images/whatif.webp",
     "heroes": [
       "THE WATCHER",
       "NICK FURY",
@@ -472,7 +472,7 @@
     "phase": "IV",
     "title": "SHANG-CHI AND THE LEGEND OF THE TEN RINGS",
     "date": "3 SEPTEMBER 2021",
-    "img": "../images/shangchi.jpg",
+    "img": "../images/shangchi.webp",
     "heroes": ["SHANG-CHI", "MANDARYN", "XIALING", "WONG"]
   },
 
@@ -480,7 +480,7 @@
     "phase": "IV",
     "title": "ETERNALS",
     "date": "5 NOVEMBER 2021",
-    "img": "../images/eternals.jpg",
+    "img": "../images/eternals.webp",
     "heroes": [
       "SERSI",
       "ICARIS",
@@ -500,14 +500,14 @@
     "phase": "IV",
     "title": "HAWKEYE",
     "date": "24 NOVEMBER 2021",
-    "img": "../images/hawkeye.jpg",
+    "img": "../images/hawkeye.webp",
     "heroes": ["HAWKEYE", "KATE BISHOP", "YELENA", "KINGPIN", "ECHO"]
   },
   {
     "phase": "IV",
     "title": "SPIDER-MAN: NO WAY HOME",
     "date": "17 DECEMBER 2021",
-    "img": "../images/spiderman2.jpg",
+    "img": "../images/spiderman2.webp",
     "heroes": [
       "SPIDER-MAN",
       "GREEN GOBLIN",
@@ -523,14 +523,14 @@
     "phase": "IV",
     "title": "MOON KNIGHT",
     "date": "30 MARCH 2022",
-    "img": "../images/moonknight.jpg",
+    "img": "../images/moonknight.webp",
     "heroes": ["MOON KNIGHT", "ARTHUR HARROW", "CHONSU", "LAYLA"]
   },
   {
     "phase": "IV",
     "title": "DOCTOR STRANGE IN THE MULTIVERSE OF MADNESS",
     "date": "6 MAY 2022",
-    "img": "../images/strange2.jpg",
+    "img": "../images/strange2.webp",
     "heroes": [
       "DOCTOR STRANGE",
       "SCARLET WITCH",
@@ -553,14 +553,14 @@
     "phase": "IV",
     "title": "MS. MARVEL",
     "date": "8 JUNE 2022",
-    "img": "../images/msmarvel.jpg",
+    "img": "../images/msmarvel.webp",
     "heroes": ["MS. MARVEL", "RED DAGGER", "KAMRAN"]
   },
   {
     "phase": "IV",
     "title": "THOR: LOVE AND THUNDER",
     "date": "8 JULY 2022",
-    "img": "../images/thor4.jpg",
+    "img": "../images/thor4.webp",
     "heroes": [
       "THOR",
       "JANE FOSTER",
@@ -580,7 +580,7 @@
     "phase": "IV",
     "title": "SHE-HULK: ATTORNEY AT LAW",
     "date": "18 AUGUST 2022",
-    "img": "../images/shehulk.jpg",
+    "img": "../images/shehulk.webp",
     "heroes": ["SHE-HULK", "TITANIA", "DAREDEVIL", "ABOMINATION", "WONG"]
   },
 
@@ -588,7 +588,7 @@
     "phase": "IV",
     "title": "WEREWOLF BY NIGHT",
     "date": "7 OCTOBER 2022",
-    "img": "../images/werewolf.jpg",
+    "img": "../images/werewolf.webp",
     "heroes": ["JACK RUSSEL", "ELSA BLOODSTONE", "MAN-THING"]
   },
 
@@ -596,7 +596,7 @@
     "phase": "IV",
     "title": "BLACK PANTHER: WAKANDA FOREVER",
     "date": "11 NOVEMBER 2022",
-    "img": "../images/blackpanther2.jpg",
+    "img": "../images/blackpanther2.webp",
     "heroes": ["SHURI", "NAKIA", "OKOYE", "M'BAKU", "NAMOR"]
   },
   {
@@ -604,7 +604,7 @@
     "phase": "IV",
     "title": "GUARDIANS OF THE GALAXY: THE HOLIDAY SPECIAL",
     "date": "24 NOVEMBER 2022",
-    "img": "../images/guardiansspecial.jpg",
+    "img": "../images/guardiansspecial.webp",
     "heroes": [
       "STAR-LORD",
       "DRAX",
@@ -620,7 +620,7 @@
     "phase": "V",
     "title": "ANT-MAN AND THE WASP: QUANTUMANIA",
     "date": "8 FEBRUARY 2022",
-    "img": "../images/antman3.jpg",
+    "img": "../images/antman3.webp",
     "heroes": [
       "ANT-MAN",
       "WASP",
@@ -634,7 +634,7 @@
     "phase": "V",
     "title": "GUARDIANS OF THE GALAXY VOL. 3",
     "date": "5 MAY 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": [
       "STARLORD",
       "GAMORA",
@@ -651,7 +651,7 @@
     "phase": "V",
     "title": "SECRET INVASION",
     "date": "SPRING 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["NICK FURY", "TALOS", "WAR MACHINE"]
   },
   {
@@ -659,7 +659,7 @@
     "phase": "V",
     "title": "THE MARVELS",
     "date": "28 JULY 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["CAPITAN MARVEL", "MS. MARVEL", "MONICA RAMBEAU"]
   },
 
@@ -668,7 +668,7 @@
     "phase": "V",
     "title": "ECHO",
     "date": "SUMMER 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["ECHO", "DAREDEVIL", "KINGPIN"]
   },
 
@@ -677,7 +677,7 @@
     "phase": "V",
     "title": "LOKI SEASON 2",
     "date": "SUMMER 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["LOKI", "SYLVIE", "HE WHO REMAINS"]
   },
 
@@ -686,7 +686,7 @@
     "phase": "V",
     "title": "IRONHEART",
     "date": "FALL 2023",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["RIRI WILLIAMS"]
   },
 
@@ -695,7 +695,7 @@
     "phase": "V",
     "title": "BLADE",
     "date": "6 SEPTEMBER 2024 ",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["BLADE"]
   },
 
@@ -704,7 +704,7 @@
     "phase": "V",
     "title": "AGATHA: COVEN OF CHAOS",
     "date": "WINTER 2023/24",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["AGATHA"]
   },
 
@@ -713,7 +713,7 @@
     "phase": "V",
     "title": "DAREDEVIL: BORN AGAIN",
     "date": "SPRING 2024",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["DAREDEVIL", "KINGPIN", "PUNISHER"]
   },
 
@@ -722,7 +722,7 @@
     "phase": "V",
     "title": "CAPTAIN AMERICA: NEW WORLD ORDER",
     "date": "3 MAY 2024",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["FALCON"]
   },
 
@@ -731,7 +731,7 @@
     "phase": "V",
     "title": "THUNDERBOLTS",
     "date": "26 JULY 2024",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["WINTER SOLDIER", "RED GUARDIAN", "YELENA", "U.S AGENT"]
   },
 
@@ -740,7 +740,7 @@
     "phase": "VI",
     "title": "DEADPOOL",
     "date": "8 NOVEMBER 2024",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["DEADPOOL", "WOLVERINE"]
   },
 
@@ -749,7 +749,7 @@
     "phase": "VI",
     "title": "FANTASTIC FOUR",
     "date": "14 FEBRUARY 2025",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["TBA"]
   },
 
@@ -758,7 +758,7 @@
     "phase": "VI",
     "title": "ARMOR WARS",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["WAR MACHINE"]
   },
 
@@ -767,7 +767,7 @@
     "phase": "VI",
     "title": "SHANG CHI 2",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["SHANG CHI", "XIALING"]
   },
 
@@ -776,7 +776,7 @@
     "phase": "VI",
     "title": "SPIDER MAN 4",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["SPIDER MAN"]
   },
 
@@ -785,7 +785,7 @@
     "phase": "VI",
     "title": "DOCTOR STRANGE 3",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["DOCTOR STRANGE"]
   },
 
@@ -794,7 +794,7 @@
     "phase": "VI",
     "title": "HULK",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["HULK"]
   },
 
@@ -803,7 +803,7 @@
     "phase": "VI",
     "title": "AVENGERS: KANG DYNASTY",
     "date": "TBA",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["KANG"]
   },
 
@@ -812,7 +812,7 @@
     "phase": "VI",
     "title": "AVENGERS: SECRET WARS",
     "date": "1 MAY 2026",
-    "img": "../images/tba.jpg",
+    "img": "../images/tba.webp",
     "heroes": ["TBA"]
   }
 ]
