@@ -1,2 +1,2 @@
 # Marvel-Releases
-https://marvelrelease.netlify.app/
+https://marvel-releases.netlify.app/
