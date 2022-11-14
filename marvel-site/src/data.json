@@ -634,7 +634,7 @@
     "phase": "V",
     "title": "GUARDIANS OF THE GALAXY VOL. 3",
     "date": "5 MAY 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": [
       "STARLORD",
       "GAMORA",
@@ -651,7 +651,7 @@
     "phase": "V",
     "title": "SECRET INVASION",
     "date": "SPRING 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["NICK FURY", "TALOS", "WAR MACHINE"]
   },
   {
@@ -659,7 +659,7 @@
     "phase": "V",
     "title": "THE MARVELS",
     "date": "28 JULY 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["CAPITAN MARVEL", "MS. MARVEL", "MONICA RAMBEAU"]
   },
 
@@ -668,7 +668,7 @@
     "phase": "V",
     "title": "ECHO",
     "date": "SUMMER 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["ECHO", "DAREDEVIL", "KINGPIN"]
   },
 
@@ -677,7 +677,7 @@
     "phase": "V",
     "title": "LOKI SEASON 2",
     "date": "SUMMER 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["LOKI", "SYLVIE", "HE WHO REMAINS"]
   },
 
@@ -686,7 +686,7 @@
     "phase": "V",
     "title": "IRONHEART",
     "date": "FALL 2023",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["RIRI WILLIAMS"]
   },
 
@@ -695,7 +695,7 @@
     "phase": "V",
     "title": "BLADE",
     "date": "6 SEPTEMBER 2024 ",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["BLADE"]
   },
 
@@ -704,7 +704,7 @@
     "phase": "V",
     "title": "AGATHA: COVEN OF CHAOS",
     "date": "WINTER 2023/24",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["AGATHA"]
   },
 
@@ -713,7 +713,7 @@
     "phase": "V",
     "title": "DAREDEVIL: BORN AGAIN",
     "date": "SPRING 2024",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["DAREDEVIL", "KINGPIN", "PUNISHER"]
   },
 
@@ -722,7 +722,7 @@
     "phase": "V",
     "title": "CAPTAIN AMERICA: NEW WORLD ORDER",
     "date": "3 MAY 2024",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["FALCON"]
   },
 
@@ -731,7 +731,7 @@
     "phase": "V",
     "title": "THUNDERBOLTS",
     "date": "26 JULY 2024",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["WINTER SOLDIER", "RED GUARDIAN", "YELENA", "U.S AGENT"]
   },
 
@@ -740,7 +740,7 @@
     "phase": "VI",
     "title": "DEADPOOL",
     "date": "8 NOVEMBER 2024",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["DEADPOOL", "WOLVERINE"]
   },
 
@@ -749,7 +749,7 @@
     "phase": "VI",
     "title": "FANTASTIC FOUR",
     "date": "14 FEBRUARY 2025",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["TBA"]
   },
 
@@ -758,7 +758,7 @@
     "phase": "VI",
     "title": "ARMOR WARS",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["WAR MACHINE"]
   },
 
@@ -767,7 +767,7 @@
     "phase": "VI",
     "title": "SHANG CHI 2",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["SHANG CHI", "XIALING"]
   },
 
@@ -776,7 +776,7 @@
     "phase": "VI",
     "title": "SPIDER MAN 4",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["SPIDER MAN"]
   },
 
@@ -785,7 +785,7 @@
     "phase": "VI",
     "title": "DOCTOR STRANGE 3",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["DOCTOR STRANGE"]
   },
 
@@ -794,7 +794,7 @@
     "phase": "VI",
     "title": "HULK",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["HULK"]
   },
 
@@ -803,7 +803,7 @@
     "phase": "VI",
     "title": "AVENGERS: KANG DYNASTY",
     "date": "TBA",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["KANG"]
   },
 
@@ -812,7 +812,7 @@
     "phase": "VI",
     "title": "AVENGERS: SECRET WARS",
     "date": "1 MAY 2026",
-    "img": "../images/tba.webp",
+    "img": "../images/tba.jpg",
     "heroes": ["TBA"]
   }
 ]
